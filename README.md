@@ -8,7 +8,7 @@
 
 | Onboarding Screen | Home - All Tasks | Active Tasks | Completed Tasks |
 |-------------------|------------------|--------------|------------------|
-| <img src="screenshots/onboarding.png" width="200" height="400" /> | <img src="screenshots/home_all.png" width="200" height="400" /> | <img src="screenshots/active_tasks.png" width="200" height="400" /> | <img src="screenshots/completed_tasks.png" width="200" height="400" /> |
+| <img src="Screenshot/Screenshot_20250731-163518.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250731-164224.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250731-164042.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250731-164103.png" width="200" height="400" /> |
 
 ---
 
